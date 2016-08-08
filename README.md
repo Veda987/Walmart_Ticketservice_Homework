@@ -12,7 +12,6 @@ Wal-Mart Ticket Service application Installing and Running instructions
 
 ***************** Welcome To Wal-Mart Ticket Service *****************
 
-********************************************************************
 Customer Menu Options to Proceed through [Check Available Seats/Holding Seats/Reservation/Exit]: 
 
 [1] for Available Seats
@@ -38,14 +37,17 @@ Assumptions
 
 3. In Each Level, Rows are named as A, B, C....Z, AA, AB....AAA.....So On, and Seats are named as (RowID + Unique Sequence Number) on Each Level.
 
-4. As part of Seat Holding, If Customer Providers Min and Max Level then, Program finds and Hold Seats based on Availability on any Level. Priority Goes from Min to Max Levels.
+4. As part of Seat Holding process, If Customer Providers Min and Max Level then, Program finds and Hold Seats based on Availability on any Level. Priority Goes from Min to Max Levels.
 
 2. Ticket's Temporary Hold time is configured to 1 Minute. If Customer does not proceed for Reservation with in 1 Minute then, Temporary Hold will be expired and No longer the Customers can proceed for Reservation.
 
-5. For Reservation, Seat Hold ID are Customers Emails are REQUIRED to Input by Customer.
+5. For Reservation, Both Seat Hold ID & Customers Email are REQUIRED to Input by Customer.
 
 6. Up on, Successful Reservation the Program Prints Confirmation No as : (T-SeatHold ID)
 
 7. Booking Details are not saved either in Database or in File System. For each Application Run, New Venue, Levels, Rows, Seats, Orders get created.
+
+Thank you,
+VEDA DASARI
 ********************************************************************
 
