@@ -15,19 +15,32 @@ Wal-Mart Ticket Service application Installing and Running instructions
 Customer Menu Options to Proceed through [Check Available Seats/Holding Seats/Reservation/Exit]: 
 
 [1] for Available Seats
-   Enter [1] to View Available Seats in Orchestra
-   Enter [2] to View Available Seats in Main
-   Enter [3] to View Available Seats in Balcony1
-   Enter [4] to View Available Seats in Balcony2
-   Enter [5] to View Available Seats in All Levels.
+
+      Enter [1] to View Available Seats in Orchestra
+      
+      Enter [2] to View Available Seats in Main
+      
+      Enter [3] to View Available Seats in Balcony1
+      
+      Enter [4] to View Available Seats in Balcony2
+      
+      Enter [5] to View Available Seats in All Levels.
 [2] for Holding Seats
-   Enter No of Seats to Hold :
-   Enter Minimum Level :
-   Enter Maximum Level :
-   Enter Customer Email :
+
+      Enter No of Seats to Hold :
+      
+      Enter Minimum Level :
+      
+      Enter Maximum Level :
+      
+      Enter Customer Email :
+      
 [3] for Reservation, 
-   Enter Your Seat Hold ID :
-   Enter Customer Email :
+
+      Enter Your Seat Hold ID :
+      
+      Enter Customer Email :
+      
 [4] for Exit
 ********************************************************************
 
